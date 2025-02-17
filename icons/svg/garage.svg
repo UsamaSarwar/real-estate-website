@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -45,3 +46,52 @@
 <g>
 </g>
 </svg>
+=======
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<rect x="58" y="292.516" width="284" height="42"/>
+			<rect x="58" y="234.516" width="284" height="42"/>
+			<rect x="58" y="350.516" width="284" height="45"/>
+			<path d="M200,4.484L0,115.685v279.831h42V168.797c0-4.418,3.248-8.282,7.666-8.282h300.668c4.418,0,7.666,3.864,7.666,8.282
+				v226.718h42V115.685L200,4.484z"/>
+			<rect x="58" y="176.516" width="284" height="42"/>
+		</g>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+>>>>>>> 7240cd4ecb892666f5c60471eeb02e9bd1c9e51e
